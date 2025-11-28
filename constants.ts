@@ -7,7 +7,7 @@ export const DEVELOPER_BIO = `I am a passionate Fullstack Developer with over 6 
 export const SOCIAL_LINKS = {
   github: "https://github.com/jagdishuikey",
   linkedin: "https://linkedin.com/in/jagdish-uikey",
-  X: "https:x.com/JagdishUik2418",
+  X: "https://x.com/JagdishUik2418",
   email: "https://juikey697@gmail.com"
 };
 
@@ -79,7 +79,8 @@ export const EDUCATION: Education[] = [
     institution: "Maharashtra State Board",
     period: "2021 - 2023",
     description: [
-     "Passed with Physics,Chemistry,Maths"
+     "Passed with Physics,Chemistry,Maths",
+     "Dhole Patil Jr College"
     ]
   }
 ];
@@ -136,7 +137,7 @@ ${PROJECTS.map(p => `- ${p.title}: ${p.description} (Tech: ${p.techStack.join(',
 Email: ${SOCIAL_LINKS.email}
 GitHub: ${SOCIAL_LINKS.github}
 LinkedIn: ${SOCIAL_LINKS.linkedin}
-Twitter: ${SOCIAL_LINKS.twitter}
+Twitter: ${SOCIAL_LINKS.X}
 
 
 **Guidelines:**
