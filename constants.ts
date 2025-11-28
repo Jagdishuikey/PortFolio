@@ -7,8 +7,8 @@ export const DEVELOPER_BIO = `I am a passionate Fullstack Developer with over 6 
 export const SOCIAL_LINKS = {
   github: "https://github.com/jagdishuikey",
   linkedin: "https://linkedin.com/in/jagdish-uikey",
-  X: "https://x.com/JagdishUik2418",
-  email: "https://juikey697@gmail.com"
+  X: "https:x.com/JagdishUik2418",
+  email: "juikey697@gmail.com"
 };
 
 export const SKILLS: SkillCategory[] = [
