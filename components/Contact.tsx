@@ -17,7 +17,7 @@ const Contact: React.FC = () => {
             </p>
             
             <a 
-            href={`mailto:${SOCIAL_LINKS.email}`} 
+            href="mailto:juikey697@gmail.com" 
             className="inline-block px-8 py-4 border border-accent text-accent hover:bg-accent/10 transition-all duration-300 rounded font-mono text-sm hover:scale-105"
             >
             Say Hello

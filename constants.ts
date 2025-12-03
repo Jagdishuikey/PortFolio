@@ -8,7 +8,7 @@ export const SOCIAL_LINKS = {
   github: "https://github.com/jagdishuikey",
   linkedin: "https://linkedin.com/in/jagdish-uikey",
   X: "https:x.com/JagdishUik2418",
-  email: "https://mail.google.com/mail/juikey697"
+  email: "juikey697@gmail.com"
 };
 
 export const SKILLS: SkillCategory[] = [
